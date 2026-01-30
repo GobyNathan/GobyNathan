@@ -17,16 +17,6 @@ Passionate about programming and architectural efficiency, I built my foundation
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gobynathan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobynathan&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠 Tech Stack
 
 #### 💻 Programming Languages
