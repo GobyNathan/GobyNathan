@@ -19,7 +19,7 @@ Passionate about programming and architectural efficiency, I built my foundation
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gobynathan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GobyNathan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
